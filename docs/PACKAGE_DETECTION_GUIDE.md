@@ -44,6 +44,7 @@ Use `<command>` tags to execute shell commands in the sandbox:
 ```
 
 ## Complete Example
+## Complete Example
 
 Here's a complete example of an AI response with files, packages, and commands:
 
